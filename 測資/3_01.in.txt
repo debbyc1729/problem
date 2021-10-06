@@ -1,0 +1,161 @@
+80
+Alien
+3
+All About Eve
+9
+A.I. Artificial Intelligence
+4
+Bicentennial Man
+5
+Soldier
+2
+The Mask
+1
+Ice Spiders
+0
+North by Northwes
+10
+Bambi
+6
+The Man Who Knew Too Much
+3
+Rio Bravo
+7
+Cold Mountain
+1
+Ghost
+9
+The Grapes of Wrath
+6
+Stagecoach
+3
+The Princess Diaries
+2
+High Fidelity
+8
+Gettysburg
+7
+Glory
+0
+Godzilla
+9
+The Hills Have Eyes
+1
+Bride of Chucky
+2
+Hulk
+5
+Tora! Tora! Tora!
+6
+The Third Man
+4
+Wuthering Heights
+7
+Goodfellas
+3
+Jaws
+8
+Family Business
+1
+Psycho
+4
+Giant
+5
+King Kong
+6
+The Man Who Cried
+2
+Lady and the Tramp
+8
+Legally Blond
+7
+Lolita
+3
+The Longest Day
+9
+The Matrix
+10
+Vertigo
+7
+M. Butterfly
+1
+My Big Fat Greek Wedding
+3
+Mr. Smith Goes to Washington
+8
+Once Upon a Time in America
+2
+On the Waterfront
+5
+Night at the Museum
+3
+Natural Born Killers
+7
+Philadelphia Story
+7
+Planet of the Apes
+2
+Pocahontas
+8
+Pinoccio
+9
+Quills
+10
+Raiders of the Lost Ark
+0
+Rocky
+0
+Snow White
+3
+Shine
+9
+Sabrina
+4
+Sixth Sense
+8
+The Silence of the Lambs
+0
+Sunset Boulevard
+0
+Saving Private Ryan
+1
+Treasure Planet
+7
+Transformers
+6
+Toy Story
+5
+Toy Story 2
+8
+Taxi Driver
+3
+To Kill a Mockingbird
+1
+Monster Hunt
+2
+Farewell My Concubine
+7
+The Breakup Guru
+4
+My Old Classmate
+6
+Monkey King: Hero is Back
+3
+The Flowers of War
+8
+Ashes of Time
+8
+Guns and Roses
+8
+Goodbye Mr. Loser
+10
+The Assassin
+5
+Lost In HongKong
+6
+Mountains may depart
+10
+Still life
+10
+A touch of sin
+1
